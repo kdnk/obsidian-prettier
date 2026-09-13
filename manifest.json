@@ -1,11 +1,11 @@
 {
-  "author": "Dylan Armstrong",
-  "authorUrl": "https://dylan.is/",
+  "author": "Kodai Nakamura",
+  "authorUrl": "https://github.com/kdnk",
   "description": "Format files with Prettier using built-in settings for configuration.",
   "fundingUrl": "",
   "id": "prettier-format",
   "isDesktopOnly": false,
   "minAppVersion": "0.15.0",
   "name": "Prettier",
-  "version": "2.0.5"
+  "version": "2.0.6"
 }
