@@ -1,5 +1,5 @@
 {
-  "author": "Dylan Armstrong<dylan@dylan.is>",
+  "author": "Kodai Nakamura",
   "dependencies": {
     "diff-match-patch": "^1.0.5",
     "mdast-util-from-markdown": "2.0.0",
